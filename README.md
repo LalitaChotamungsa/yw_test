@@ -7,4 +7,7 @@ Yeewa
 We just met for the first time.
 
 ## faverite foods 
-    noodle
+    somtum
+
+## favorite activities
+    sleep
